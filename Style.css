@@ -1,0 +1,43 @@
+#Greeting{
+    background: linear-gradient(aquamarine, yellow);
+    border-radius: 45px;
+    padding: 20px;
+    border-style: dashed dotted dashed dotted;
+    border-color: blue;
+}
+#Introduction{
+    text-align: center;
+}
+#Person{
+    border-radius: 50px;
+    padding: 3px;
+    border-style: dashed;
+    color:aqua;
+}
+body{
+    background-color: rgb(219, 255, 166);
+}
+#IntroPara{
+    font-family: cursive;
+    color: crimson;
+    background-color: bisque;
+    border-radius: 12px;
+    padding: 5px;
+    border-style: dashed dotted dashed dotted;
+}
+#NextPara{
+    font-family: cursive;
+    color:cornflowerblue;
+    background-color: aquamarine;
+    border-radius: 12px;
+    padding: 5px;
+    border-style: dashed dotted dashed dotted;
+}
+hr{
+    color: blueviolet;
+    border: 3px;
+    border-radius: 12px;
+    padding: 1.5px;
+    border-style:groove;
+    border-color: darkmagenta;
+}
